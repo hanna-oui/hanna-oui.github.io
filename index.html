@@ -1,12 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oliver Zain Hannaoui</title>
+    <title>Oliver Hannaoui</title>
+    <style>
+        .block-line {
+            display: block;
+            margin-bottom: 10px;  /* Add some spacing if needed */
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;  /* Full viewport height */
+            display: flex;
+            flex-direction: column;  /* Align content in a vertical direction */
+            align-items: center;  /* Center content horizontally */
+            justify-content: flex-start;  /* Align content to the top */
+        }
+
+        .profile-container {
+            display: flex;
+            align-items: center;  /* Vertically align image and text */
+            justify-content: flex-start;  /* Align items starting from the left */
+            padding: 20px;
+            width: 80vw;  /* 80% of the viewport width */
+            max-width: 1200px;  /* Max width for larger screens */
+            height: auto;
+            margin-top: 20px;  /* Adds some space between the top of the page and the container */
+        }
+
+        .profile-photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;  /* Circular profile picture */
+            object-fit: cover;
+            margin-right: 20px;
+        }
+
+        .profile-text {
+            flex-grow: 1;
+            text-align: left;
+        }
+
+        h1 {
+            font-size: 2rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+        }
+    </style>
 </head>
+
 <body>
-    <h1>Oliver Zain Hannaoui</h1>
-    <p>Welcome to my personal website. I am currently a M1 student in Applied Mathematics and Statistics at the Polytechnic Insitute of Paris, hosted by École Polytechnique.</p>
+    <div class="profile-container">
+        <img src="Profile.jpg" alt="Profile Picture" class="profile-photo">
+        <div class="profile-text">
+            <h2>About Me</h1>
+                <p> 
+                <span class="block-line">Hi, my name is Oliver Hannaoui. I am currently an M1 student in 
+                Applied Mathematics and Statistics at the Polytechnic Institute of Paris, hosted by École Polytechnique.</span>
+                <span class="block-line">Previously, I spent two formative years as a Senior Research Analyst at the 
+                Federal Reserve Bank of New York after graduating with degrees in Economics and Statistics 
+                from the University of California, Davis. </span>
+                </p>
+        </div>
+    </div>
 </body>
-</html>
+
+</html> 
