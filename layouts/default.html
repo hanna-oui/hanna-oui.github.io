@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <img src="{{ "/assets/images/profile_photo.jpg" | relative_url }}" alt="Profile photo" class="profile-pic">
+      <h2>{{ site.title }}</h2>
+      <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p><a href="https://github.com/{{ site.github_username }}">GitHub</a></p>
+    </aside>
+
+    <!-- Main content -->
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>
