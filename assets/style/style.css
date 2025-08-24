@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background-color: #fff5f5; 
-    color: #333;
+    background-color: #faf5f7;  
+    color: #2b1a1a;  
 }
 
 .container {
@@ -14,18 +14,18 @@ body {
     display: block;      
     margin-bottom: 1.5em; 
     line-height: 1.6;     
-  }
-  
+}
 
 .sidebar {
     width: 250px;
-    background: #ffeaea; 
+    background: #6d1b2e;
     padding: 20px;
     text-align: center;
-    border-right: 2px solid #e0baba;
+    border-right: 2px solid #4a0f1f;
     position: fixed;
     height: 100vh;
     overflow-y: auto;
+    color: #f8eaea;  
 }
 
 .profile-pic {
@@ -34,12 +34,13 @@ body {
     border-radius: 50%;
     margin-bottom: 8px;  
     object-fit: cover;
+    border: 3px solid #f8eaea; 
 }
 
 .sidebar h2 {
     margin: 5px 0;
     font-size: 1.4em;
-    color: #2c2c2c;
+    color: #f8eaea;  
 }
 
 .social-links {
@@ -55,14 +56,13 @@ body {
 
 .social-icons a {
     font-size: 1.4em;  
-    color: #666;
+    color: #f0c0c0; 
     transition: color 0.3s ease;
 }
 
 .social-icons a:hover {
-    color: #d85b5b;
+    color: #ffccd5;  
 }
-  
 
 .content {
     flex: 1;
@@ -73,15 +73,15 @@ body {
 }
 
 .content h1 {
-    color: #2c2c2c;
+    color: #4a0f1f; 
     margin-bottom: 20px;
 }
 
 .content h2 {
-    color: #444;
+    color: #6d1b2e; 
     margin-top: 30px;
     margin-bottom: 15px;
-    border-bottom: 2px solid #f0d0d0;
+    border-bottom: 2px solid #b85c72; 
     padding-bottom: 5px;
 }
 
@@ -100,7 +100,7 @@ body {
         width: 100%;
         height: auto;
         border-right: none;
-        border-bottom: 2px solid #e0baba;
+        border-bottom: 2px solid #4a0f1f;
     }
     
     .content {
