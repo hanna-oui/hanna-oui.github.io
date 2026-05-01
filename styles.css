@@ -1,10 +1,13 @@
 /* css styles */
 
+
+
 .star {
-  font-size: 0.7em;   /* try 0.7–0.9 depending on taste */
+  font-size: 0.5em;   /* try 0.7–0.9 depending on taste */
   position: relative;
-  top: -1px;           /* keep your alignment tweak */
+  top: -2px;           /* keep your alignment tweak */
 }
+
 
 /*
 body {
@@ -24,7 +27,8 @@ a.normal {
 
 /* paper links (maybe more subtle) */
 a.paper {
-  color: #1a73e8;
+  color: #293094;
   text-decoration: none;
-  border-bottom: 1px solid #1a73e8;
+  border-bottom: 1px solid #293094;
 }
+
