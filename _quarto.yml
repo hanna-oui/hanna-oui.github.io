@@ -2,20 +2,16 @@ project:
   type: website
 
 website:
-  title: "Oliver Hannaoui"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: ""
+  navbar: false
+
 
 format:
   html:
     theme:
-      light: [united, brand]
-      dark: [darkly, brand]
+      light: [cosmo, brand]
     css: styles.css
-    toc: true
+    max-width: 700px
 
 
 
