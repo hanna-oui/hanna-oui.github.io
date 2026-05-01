@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Some notes",
+    "section": "",
+    "text": "Here I’ll add some features I envision for this website.\n\n\n\n\n\nCoffee, movies, restaurants. Sync Beli, Strava, LetterBoxd.\n\n\n\nSome useful back of the envelope calculations.\n\n\n\nThis allows you to view a live preview of your website.\nquarto preview"
+  },
+  {
+    "objectID": "notes.html#rankings",
+    "href": "notes.html#rankings",
+    "title": "Some notes",
+    "section": "",
+    "text": "Coffee, movies, restaurants. Sync Beli, Strava, LetterBoxd."
+  },
+  {
+    "objectID": "notes.html#back-of-the-envelope",
+    "href": "notes.html#back-of-the-envelope",
+    "title": "Some notes",
+    "section": "",
+    "text": "Some useful back of the envelope calculations."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "personal-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit &lt;https://quarto.org/docs/websites&gt;."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "notes.html#useful-commands",
+    "href": "notes.html#useful-commands",
+    "title": "Some notes",
+    "section": "",
+    "text": "This allows you to view a live preview of your website.\nquarto preview"
+  }
+]
