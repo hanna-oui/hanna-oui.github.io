@@ -1,2 +1,30 @@
 /* css styles */
 
+.star {
+  font-size: 0.7em;   /* try 0.7–0.9 depending on taste */
+  position: relative;
+  top: -1px;           /* keep your alignment tweak */
+}
+
+/*
+body {
+  background-color: #e9dfc7; 
+} */
+
+a.cmu {
+  color: #C41230;
+  text-decoration: underline;
+}
+
+/* normal links */
+a.normal {
+  color: #333;
+  text-decoration: underline;
+}
+
+/* paper links (maybe more subtle) */
+a.paper {
+  color: #1a73e8;
+  text-decoration: none;
+  border-bottom: 1px solid #1a73e8;
+}
