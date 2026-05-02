@@ -1,9 +1,44 @@
 [
   {
+    "objectID": "support/personal_projects.html",
+    "href": "support/personal_projects.html",
+    "title": "personal projects",
+    "section": "",
+    "text": "home  \n\n\npersonal projects"
+  },
+  {
+    "objectID": "support/extrascholastic.html",
+    "href": "support/extrascholastic.html",
+    "title": "extrascholastic endeavors",
+    "section": "",
+    "text": "home  \n\n\nextrascholastic endeavors\n\n\n\nPhoto taken from the bleacher seats inside the best stadium in the MLB."
+  },
+  {
+    "objectID": "support/research.html",
+    "href": "support/research.html",
+    "title": "",
+    "section": "",
+    "text": "home  \n\nBelow, you will find a list of my publications in chronological order. Of course, this information can also be found on my  google scholar .\nAt present, the flavor of my published research reflects the work I did in a past life as an economics pre-doctoral student. More research typical of a statistics PhD student is in the works.\n\n\n Publications \n Drivers of Dollar Share in Foreign Exchange Reserves.  Linda Goldberg and Oliver Hannaoui. 2026. [NBER WP]   Media mentions:     •    •   \n\n\nAcademic Blogs\n What Do Climate Risk Indices Measure?  Oliver Hannaoui and Hyeyoon Jung. 2024. [Blog]   Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves.  Patrick Douglass, Linda Goldberg, and Oliver Hannaoui. 2024.  [Blog]   Flood Risk and Firm Location Decisions in the Fed’s Second District. Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. [Blog]"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Oliver Hannaoui",
     "section": "",
-    "text": "Greetings! I am a first-year Statistics PhD student at Carnegie Mellon University.\nBroadly, I am interested in developing statistical theory and methodology using tools from statistical machine learning. Currently, I am member of the Delphi lab where I assist on projects related to infectious disease forecasting.\nPreviously, I spent a year in Paris completing the M1 Applied Mathematics and Statistics program at the Polytechnic Institute of Paris. During my time in Paris, I also completed an AI engineering internship at Ennov.\nPrior to that, I spent two formative years in New York City as a Senior Research Analyst in the Financial Intermediation group at the Federal Reserve Bank of New York after graduating with bachelor’s degrees in Economics and Statistics from the University of California, Davis.  \n\n Publications \n Drivers of Dollar Share in Foreign Exchange Reserves . Linda Goldberg and Oliver Hannaoui. 2026. [NBER WP]   Media mentions:     •    •   \n\n\nAcademic Blogs\n What Do Climate Risk Indices Measure?  Oliver Hannaoui and Hyeyoon Jung. 2024. [Blog]   Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves  . Patrick Douglass, Linda Goldberg, and Oliver Hannaoui. 2024.  [Blog]   Flood Risk and Firm Location Decisions in the Fed’s Second District . Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. [Blog]"
+    "text": "research   personal projects   musings   more musings   fun\n\n\nOliver Hannaoui\n\nGreetings! I am a first-year Statistics PhD student at Carnegie Mellon University. I am also a member of the Delphi group, where I work on projects related to infectious disease forecasting.\nPreviously, I spent a year in Paris where I completed an M1 in Applied Mathematics and Statistics at the Polytechnic Institute of Paris. During my time in Paris, I also completed an AI engineering internship at Ennov.\nPrior to that, I spent two formative years in New York City at the Federal Reserve Bank of New York as a Senior Research Analyst in the Financial Intermediation group. I graduated with bachelor’s degrees in Economics and Statistics from the University of California, Davis. \nI can be contacted via e-mail or LinkedIn .\n\n\nRaouché, located in Beirut Lebanon."
+  },
+  {
+    "objectID": "support/reducible_error.html",
+    "href": "support/reducible_error.html",
+    "title": "reducible error",
+    "section": "",
+    "text": "home\n\n\nreducible error\nPersonal writings on an assortment of non-technical, but hopefully interesting, topics I feel partly-qualified to speak on due to my lived experience.\n\n“It ain’t over until the fat lady sings.” - Yogi Berra"
+  },
+  {
+    "objectID": "support/almost_sure.html",
+    "href": "support/almost_sure.html",
+    "title": "almost sure, almost surely",
+    "section": "",
+    "text": "home  \n\n\nalmost sure, almost surely\nA self-serving blog on mathematical topics that I encounter throughout my PhD journey.\n\n“All models are wrong, but some are useful.” - Abraham Lincoln"
   }
 ]
