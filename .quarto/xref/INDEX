@@ -7,5 +7,32 @@
   },
   "notes.md": {
     "notes.html": "44f021ef"
+  },
+  "as.qmd": {
+    "as.html": "815ecc5e"
+  },
+  "swan.qmd": {
+    "swan.html": "abaad980"
+  },
+  "musings.qmd": {
+    "musings.html": "6ee903a9"
+  },
+  "fun.qmd": {
+    "fun.html": "cdb62b7f"
+  },
+  "support/almost_sure.qmd": {
+    "almost_sure.html": "11b705c8"
+  },
+  "support/reducible_error.qmd": {
+    "reducible_error.html": "b84f2572"
+  },
+  "support/extrascholastic.qmd": {
+    "extrascholastic.html": "fe96d48d"
+  },
+  "support/research.qmd": {
+    "research.html": "52b52b78"
+  },
+  "support/personal_projects.qmd": {
+    "personal_projects.html": "f4cbe4f4"
   }
 }

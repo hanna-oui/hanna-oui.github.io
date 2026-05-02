@@ -1,0 +1,9 @@
+::: {.top-nav}
+<span><a href="../index.qmd">home</a></span> \ 
+:::
+
+# almost sure, almost surely
+A self-serving blog on mathematical topics that I encounter throughout my PhD journey. 
+
+> "All models are wrong, but some are useful." 
+> - Abraham Lincoln

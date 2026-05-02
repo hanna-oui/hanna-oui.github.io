@@ -1,0 +1,10 @@
+::: {.top-nav}
+<span><a href="../index.qmd">home</a></span> 
+:::
+
+# reducible error 
+Personal writings on an assortment of non-technical, but hopefully interesting, topics I feel partly-qualified to speak on due to my lived experience.
+
+> "It ain't over until the fat lady sings." 
+> - [Yogi Berra ](https://www.cmu.edu/dietrich/statistics-datascience/index.html)
+

@@ -32,3 +32,53 @@ a.paper {
   border-bottom: 1px solid #293094;
 }
 
+.top-nav {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;   /* increase this */
+  font-size: 1.0rem;
+}
+
+.top-nav a {
+  color: #2f3437;
+  text-decoration: none;
+}
+
+.top-nav a:hover {
+  color: #C41230;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.profile-pic {
+  float: left;
+  width: 225px;
+  margin: 0.25rem 1.5rem 1rem 0;  /* key fix */
+  border-radius: 10px;
+}
+
+.profile-wrap {
+  float: left;
+  width: 220px;
+  margin: 0.3rem 1.5rem 1rem 0;
+}
+
+
+
+.caption {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.3rem;
+}
+
+.photo {
+  width: 45%;
+  border: 2px solid #222;
+  border-radius: 0px;
+}
+
+
+body {
+  background-color: #F5F1E8;
+}

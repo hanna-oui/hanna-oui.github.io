@@ -1,0 +1,21 @@
+::: {.top-nav}
+<span><a href="../index.qmd">home</a></span> \ 
+:::
+
+Below, you will find a list of my publications in chronological order. Of course, this information can also be found on my <a href="https://scholar.google.com/citations?user=0h5UWs8AAAAJ&hl=en&oi=ao" class="paper"> google scholar </a>.
+
+At present, the flavor of my published research reflects the work I did in a past life as an economics pre-doctoral student. More research typical of a statistics PhD student is in the works.
+
+<!---
+Should you find any errors in my work, or more pleasantly, would like to collaborate, feel free to leave me an e-mail at.
+-->
+### <font color="black"> Publications <font>
+
+<font color = "#545151"> **Drivers of Dollar Share in Foreign Exchange Reserves.** </font> Linda Goldberg and Oliver Hannaoui. 2026. <a href="https://www.nber.org/system/files/working_papers/w34888/w34888.pdf" class="paper">[NBER WP]</a> <br>
+<font color="#C41230"> Media mentions:</font> \ \ [ <img src="../media/logo/ft.png" height="22"> ](https://www.ft.com/content/be345914-7b4b-4264-bcbd-6e5e33b798c7) \ • \ [<img src="../media/logo/wsj.jpg" height="22.5">](https://deloitte.wsj.com/cfo/fresh-support-for-the-dollar-as-global-currency-79db250b) \ • \ [<img src="../media/logo/reuters.png" height="22">](https://www.reuters.com/markets/currencies/demise-dollars-fx-reserve-omnipotence-greatly-exaggerated-mcgeever-2024-06-06/) <br>
+
+### Academic Blogs
+<font color = "#545151"> **What Do Climate Risk Indices Measure?** </font>  Oliver Hannaoui and Hyeyoon Jung. 2024. <a href="https://libertystreeteconomics.newyorkfed.org/2024/10/what-do-climate-risk-indices-measure/" class="paper">[Blog]</a> <br> 
+<font color = "#545151"> **Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves.** </font>  Patrick Douglass, Linda Goldberg, and Oliver Hannaoui. 2024. \ <a href="https://libertystreeteconomics.newyorkfed.org/2024/05/taking-stock-dollar-assets-gold-and-official-foreign-exchange-reserves/" class="paper">[Blog]</a> <br>
+<font color = "#545151"> **Flood Risk and Firm Location Decisions in the Fed's Second District.**</font>  Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. <a href="https://libertystreeteconomics.newyorkfed.org/2023/11/flood-risk-and-firm-location-decisions-in-the-feds-second-district/" class="paper">[Blog]</a>
+

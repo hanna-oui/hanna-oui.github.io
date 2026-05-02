@@ -1,0 +1,5 @@
+::: {.top-nav}
+<span><a href="../index.qmd">home</a></span> \ 
+:::
+
+# personal projects
