@@ -25,5 +25,6 @@ Prior to that, I spent two formative years in New York City at the <a href="http
 
 I can be contacted via <a href="mailto:ozh@stat.cmu.edu" class="paper">e-mail</a> or <a href="https://www.linkedin.com/in/oliver-hannaoui/" class="paper">LinkedIn </a>. 
 
-
+<!--
 <img src="media/raouché.jpg" class="photo">
+-->
