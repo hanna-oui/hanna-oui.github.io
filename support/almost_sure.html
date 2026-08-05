@@ -92,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
 <h1>almost sure, almost surely</h1>
 <p>A self-serving blog on mathematical topics that I encounter throughout my PhD journey.</p>
 <blockquote class="blockquote">
-<p>“All models are wrong, but some are useful.” - Abraham Lincoln</p>
+<p>“All models are wrong, but some are useful.” - Georege box</p>
 </blockquote>
 
 
@@ -171,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/hanna-oui\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

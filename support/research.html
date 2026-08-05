@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -93,18 +122,18 @@ ul.task-list li input[type="checkbox"] {
 <!---
 Should you find any errors in my work, or more pleasantly, would like to collaborate, feel free to leave me an e-mail at.
 -->
-<section id="publications" class="level3">
-<h3 class="anchored" data-anchor-id="publications"><font color="black"> Publications <font></font></font></h3><font color="black"><font>
-<p><font color="#545151"> <strong>Drivers of Dollar Share in Foreign Exchange Reserves.</strong> </font> Linda Goldberg and Oliver Hannaoui. 2026. <a href="https://www.nber.org/system/files/working_papers/w34888/w34888.pdf" class="paper">[NBER WP]</a> <br> <font color="#C41230"> Media mentions:</font> &nbsp;&nbsp;<a href="https://www.ft.com/content/be345914-7b4b-4264-bcbd-6e5e33b798c7"><img src="../media/logo/ft.png" height="22"></a> &nbsp;• &nbsp;<a href="https://deloitte.wsj.com/cfo/fresh-support-for-the-dollar-as-global-currency-79db250b"><img src="../media/logo/wsj.jpg" height="22.5"></a> &nbsp;• &nbsp;<a href="https://www.reuters.com/markets/currencies/demise-dollars-fx-reserve-omnipotence-greatly-exaggerated-mcgeever-2024-06-06/"><img src="../media/logo/reuters.png" height="22"></a> <br></p>
-</font></font></section><font color="black"><font>
-<section id="academic-blogs" class="level3">
-<h3 class="anchored" data-anchor-id="academic-blogs">Academic Blogs</h3>
-<p><font color="#545151"> <strong>What Do Climate Risk Indices Measure?</strong> </font> Oliver Hannaoui and Hyeyoon Jung. 2024. <a href="https://libertystreeteconomics.newyorkfed.org/2024/10/what-do-climate-risk-indices-measure/" class="paper">[Blog]</a> <br> <font color="#545151"> <strong>Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves.</strong> </font> Patrick Douglass, Linda Goldberg, and Oliver Hannaoui. 2024. &nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2024/05/taking-stock-dollar-assets-gold-and-official-foreign-exchange-reserves/" class="paper">[Blog]</a> <br> <font color="#545151"> <strong>Flood Risk and Firm Location Decisions in the Fed’s Second District.</strong></font> Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. <a href="https://libertystreeteconomics.newyorkfed.org/2023/11/flood-risk-and-firm-location-decisions-in-the-feds-second-district/" class="paper">[Blog]</a></p>
+<h3 style="font-size: 20px; margin-bottom: 0.2rem; margin-top: 1rem;" class="anchored">
+<strong>Publications</strong>
+</h3>
+<p><em>Drivers of Dollar Share in Foreign Exchange Reserves.</em> Linda Goldberg and Oliver Hannaoui. 2026. <a href="https://www.nber.org/system/files/working_papers/w34888/w34888.pdf" class="paper">[NBER WP]</a> <br> <font color="#C41230"> <span class="math inline">\(\star\)</span> Media mentions </font> &nbsp;&nbsp;<a href="https://www.ft.com/content/be345914-7b4b-4264-bcbd-6e5e33b798c7"><img src="../media/logo/ft.png" height="18"></a> &nbsp;• &nbsp;<a href="https://deloitte.wsj.com/cfo/fresh-support-for-the-dollar-as-global-currency-79db250b"><img src="../media/logo/wsj.jpg" height="18.5"></a> &nbsp;• &nbsp;<a href="https://www.reuters.com/markets/currencies/demise-dollars-fx-reserve-omnipotence-greatly-exaggerated-mcgeever-2024-06-06/"><img src="../media/logo/reuters.png" height="17"></a> <br></p>
+<h3 style="font-size: 20px; margin-bottom: 0.2rem; margin-top: 1rem;" class="anchored">
+<strong>Academic Blogs</strong>
+</h3>
+<p><em>What Do Climate Risk Indices Measure?</em> Oliver Hannaoui and Hyeyoon Jung. 2024. <a href="https://libertystreeteconomics.newyorkfed.org/2024/10/what-do-climate-risk-indices-measure/" class="paper">[Blog]</a> <br> <em>Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves.</em> Patrick Douglass, Linda Goldberg, and Oliver Hannaoui. 2024. &nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2024/05/taking-stock-dollar-assets-gold-and-official-foreign-exchange-reserves/" class="paper">[Blog]</a> <br> <em>Flood Risk and Firm Location Decisions in the Fed’s Second District.</em> Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. <a href="https://libertystreeteconomics.newyorkfed.org/2023/11/flood-risk-and-firm-location-decisions-in-the-feds-second-district/" class="paper">[Blog]</a></p>
 
 
-</section>
 
-</font></font></main><font color="black"><font> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -177,7 +206,7 @@ Should you find any errors in my work, or more pleasantly, would like to collabo
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/hanna-oui\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -504,9 +533,9 @@ Should you find any errors in my work, or more pleasantly, would like to collabo
     }
   });
   </script>
-</font></font></div><font color="black"><font> <!-- /content -->
+</div> <!-- /content -->
 
 
 
 
-</font></font></body></html>
+</body></html>
