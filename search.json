@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "pages/research.html",
-    "href": "pages/research.html",
+    "objectID": "home.html",
+    "href": "home.html",
     "title": "",
     "section": "",
-    "text": "home  \n\nBelow, you will find a list of my publications in chronological order. Of course, this information can also be found on my  google scholar .\nAt present, this work reflects research I contributed to in a past life as an economics pre-doctoral student. More research typical of a statistics PhD student is in the works.\n\n\nPublications\n\n\\(\\S\\) Drivers of Dollar Share in Foreign Exchange Reserves. Linda Goldberg and Oliver Hannaoui. 2026. [NBER WP]   \\(\\star\\) Media mentions      •    •   \n\nAcademic Blogs\n\n\\(\\S\\) What Do Climate Risk Indices Measure? Oliver Hannaoui and Hyeyoon Jung. 2024. [Blog]  \\(\\S\\) Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves. Patrick Douglass, Linda Goldberg, and Oliver Hannaoui. 2024.  [Blog]  \\(\\S\\) Flood Risk and Firm Location Decisions in the Fed’s Second District. Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. [Blog]"
-  },
-  {
-    "objectID": "in_progress/personal_projects.html",
-    "href": "in_progress/personal_projects.html",
-    "title": "personal projects",
-    "section": "",
-    "text": "home  \n\n\npersonal projects\nSome personal projects, always to to be housed on  my GitHub, that I hope to wrap up. More than I would like to admit sit unfinished as private repos."
-  },
-  {
-    "objectID": "in_progress/extrascholastic.html",
-    "href": "in_progress/extrascholastic.html",
-    "title": "extrascholastic endeavors",
-    "section": "",
-    "text": "home  \n\n\nextrascholastic endeavors\nI have some ‘fun’ features that I hope to add here as the time permits.\n\n\n\nPhoto taken from the bleacher seats inside the best stadium in the MLB."
-  },
-  {
-    "objectID": "in_progress/reducible_error.html",
-    "href": "in_progress/reducible_error.html",
-    "title": "reducible error",
-    "section": "",
-    "text": "home\n\n\nreducible error\nPersonal writings on an assortment of non-technical, but hopefully interesting, topics I feel partly-qualified to speak on due to my lived experience.\n\n“When all is said and done, there’s nothing left to say or do.” - Darryl Dawkins"
+    "text": "research\n\n\nOliver Hannaoui\n\n\nGreetings! I am a first-year Statistics PhD student at Carnegie Mellon University. I am also a member of the Delphi group, where I am working on leveraging time-series foundation models for infectious disease forecasting.\nPreviously, I spent a year in Paris where I completed an M1 in Applied Mathematics and Statistics at the Polytechnic Institute of Paris. During my time in Paris, I also completed an AI engineering internship at Ennov.\nPrior to that, I spent two formative years in New York City at the Federal Reserve Bank of New York as a Senior Research Analyst in the Financial Intermediation group. Before that, I graduated with bachelor’s degrees in Economics and Statistics from the University of California, Davis. \nI can be contacted via e-mail or LinkedIn ."
   },
   {
     "objectID": "in_progress/almost_sure.html",
@@ -35,10 +14,38 @@
     "text": "home  \n\n\nalmost sure, almost surely\nA self-serving blog on mathematical topics that I encounter throughout my PhD journey.\n\n“All models are wrong, but some are useful.” - Georege box"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "in_progress/useful.html",
+    "href": "in_progress/useful.html",
     "title": "",
     "section": "",
-    "text": "research\n\n\nOliver Hannaoui\n\n\nGreetings! I am a first-year Statistics PhD student at Carnegie Mellon University. I am also a member of the Delphi group, where I work on projects related to infectious disease forecasting.\nPreviously, I spent a year in Paris where I completed an M1 in Applied Mathematics and Statistics at the Polytechnic Institute of Paris. During my time in Paris, I also completed an AI engineering internship at Ennov.\nPrior to that, I spent two formative years in New York City at the Federal Reserve Bank of New York as a Senior Research Analyst in the Financial Intermediation group. Before that, I graduated with bachelor’s degrees in Economics and Statistics from the University of California, Davis. \nI can be contacted via e-mail or LinkedIn ."
+    "text": "To view the current md file you are on run\nquarto preview\nTo deploy to github run\nquarto publish gh-pages"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "",
+    "section": "",
+    "text": "home  \n\nBelow, you will find a list of my publications in chronological order. Of course, this information can also be found on my  google scholar .\nAt present, this work reflects research I contributed to in a past life as an economics pre-doctoral student. More research typical of a statistics PhD student is in the works.\n\n\nPublications\n\n\\(\\ast\\) Drivers of Dollar Share in Foreign Exchange Reserves. Linda S. Goldberg and Oliver Hannaoui. 2026. [NBER]   Media mentions:      •    •   \n\nAcademic Blogs\n\n\\(\\ast\\) The dollar’s status through the lens of foreign exchange reserves. Linda S. Goldberg and Oliver Hannaoui. 2026. [VoxEU CEPR]  \\(\\ast\\) What Do Climate Risk Indices Measure? Oliver Hannaoui and Hyeyoon Jung. 2024. [Liberty Street Economics]  \\(\\ast\\) Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves. Patrick Douglass, Linda S. Goldberg, and Oliver Hannaoui. 2024.  [Liberty Street Economics]  \\(\\ast\\) Flood Risk and Firm Location Decisions in the Fed’s Second District. Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. [Liberty Street Economics]"
+  },
+  {
+    "objectID": "in_progress/reducible_error.html",
+    "href": "in_progress/reducible_error.html",
+    "title": "reducible error",
+    "section": "",
+    "text": "home\n\n\nreducible error\nPersonal writings on an assortment of non-technical, but hopefully interesting, topics I feel partly-qualified to speak on due to my lived experience.\n\n“When all is said and done, there’s nothing left to say or do.” - Darryl Dawkins"
+  },
+  {
+    "objectID": "in_progress/extrascholastic.html",
+    "href": "in_progress/extrascholastic.html",
+    "title": "extrascholastic endeavors",
+    "section": "",
+    "text": "home  \n\n\nextrascholastic endeavors\nI have some ‘fun’ features that I hope to add here as the time permits.\n\n\n\nPhoto taken from the bleacher seats inside the best stadium in the MLB."
+  },
+  {
+    "objectID": "in_progress/personal_projects.html",
+    "href": "in_progress/personal_projects.html",
+    "title": "personal projects",
+    "section": "",
+    "text": "home  \n\n\npersonal projects\nSome personal projects, always to to be housed on  my GitHub, that I hope to wrap up. More than I would like to admit sit unfinished as private repos."
   }
 ]
