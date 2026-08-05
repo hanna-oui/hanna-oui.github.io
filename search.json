@@ -18,7 +18,7 @@
     "href": "in_progress/useful.html",
     "title": "",
     "section": "",
-    "text": "To view the current md file you are on run\nquarto preview\nTo deploy to github run\nquarto publish gh-pages"
+    "text": "To view the current md file you are on run\nquarto preview\nTo deploy to github run\nquarto publish gh-pages\nSometimes, there is stale cached output:\nquarto render --cache-refresh\nrm -rf _freeze/ .quarto/"
   },
   {
     "objectID": "research.html",

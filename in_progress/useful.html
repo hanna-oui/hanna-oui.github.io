@@ -89,6 +89,9 @@ ul.task-list li input[type="checkbox"] {
 <pre><code>quarto preview</code></pre>
 <p>To deploy to github run</p>
 <pre><code>quarto publish gh-pages</code></pre>
+<p>Sometimes, there is stale cached output:</p>
+<pre><code>quarto render --cache-refresh
+rm -rf _freeze/ .quarto/</code></pre>
 
 
 
