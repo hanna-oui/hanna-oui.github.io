@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanna-oui.github.io/index.html</loc>
-    <lastmod>2026-08-07T00:14:48.030Z</lastmod>
+    <lastmod>2026-08-07T00:45:38.623Z</lastmod>
   </url>
   <url>
-    <loc>https://hanna-oui.github.io/in_progress/almost_sure.html</loc>
-    <lastmod>2026-08-07T00:04:48.321Z</lastmod>
+    <loc>https://hanna-oui.github.io/in_progress/leisure-writing.html</loc>
+    <lastmod>2026-08-07T00:05:00.343Z</lastmod>
   </url>
   <url>
     <loc>https://hanna-oui.github.io/in_progress/useful.html</loc>
@@ -14,18 +14,18 @@
   </url>
   <url>
     <loc>https://hanna-oui.github.io/research.html</loc>
-    <lastmod>2026-08-07T00:09:42.127Z</lastmod>
+    <lastmod>2026-08-23T13:49:36.353Z</lastmod>
   </url>
   <url>
-    <loc>https://hanna-oui.github.io/in_progress/reducible_error.html</loc>
-    <lastmod>2026-08-07T00:05:00.343Z</lastmod>
+    <loc>https://hanna-oui.github.io/in_progress/technical-writing.html</loc>
+    <lastmod>2026-08-07T00:04:48.321Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hanna-oui.github.io/in_progress/software.html</loc>
+    <lastmod>2026-08-07T00:04:56.052Z</lastmod>
   </url>
   <url>
     <loc>https://hanna-oui.github.io/in_progress/extrascholastic.html</loc>
     <lastmod>2026-08-07T00:04:51.707Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hanna-oui.github.io/in_progress/personal_projects.html</loc>
-    <lastmod>2026-08-07T00:04:56.052Z</lastmod>
   </url>
 </urlset>
