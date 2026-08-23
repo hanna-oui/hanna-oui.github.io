@@ -25,12 +25,16 @@ a.normal {
   text-decoration: underline;
 }
 
+th { font-weight: normal; font-style: italic; }
+
 /* paper links (maybe more subtle) */
 a.paper {
   color: #293094;
   text-decoration: none;
   border-bottom: 1px solid #293094;
 }
+
+.blogs p { margin-bottom: 0.5rem; }
 
 .top-nav {
   position: relative;
@@ -72,9 +76,11 @@ a.paper {
   margin-top: 0.3rem;
 }
 
+.photo-caption { font-size: 0.85rem; color: #999; margin-top: 0.25rem; }
+
 .photo {
   width: 45%;
-  border: 2px solid #222;
+  border: 1px solid #222;
   border-radius: 0px;
 }
 
