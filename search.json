@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "writing.html",
+    "href": "writing.html",
     "title": "ozh",
     "section": "",
-    "text": "research   extracurricular\n\n\n\nOliver Hannaoui\n\n\n\nHello. I am a second-year Statistics PhD student at Carnegie Mellon University. I am also a member of Delphi, where I am working on leveraging time-series foundation models for infectious disease forecasting.\nPreviously, I completed an M1 in Applied Mathematics and Statistics at the Polytechnic Institute of Paris. Prior to that, I spent two formative years at the Federal Reserve Bank of New York as a Senior Research Analyst in the Financial Intermediation group. \nI can be contacted via e-mail or LinkedIn ."
+    "text": "Here you will have:\nThe Moving Hand. A blog on things through which I have (some) knowledge through lived experience. Paper summary. Reducible error. More expository. Almost sure, a.s.. More technical math blog. Atlas. Just a repository with proofs that come up in the above blogs."
   },
   {
-    "objectID": "in_progress/leisure-writing.html",
-    "href": "in_progress/leisure-writing.html",
-    "title": "reducible error",
-    "section": "",
-    "text": "home\n\n\nreducible error\nPersonal writings on an assortment of non-technical, but hopefully interesting, topics I feel partly-qualified to speak on due to my lived experience.\n\n“When all is said and done, there’s nothing left to say or do.” - Darryl Dawkins"
-  },
-  {
-    "objectID": "in_progress/useful.html",
-    "href": "in_progress/useful.html",
+    "objectID": "extracurricular.html",
+    "href": "extracurricular.html",
     "title": "ozh",
     "section": "",
-    "text": "To view the current md file you are on run\nquarto preview\nTo deploy to github run\nquarto publish gh-pages\nSometimes, there is stale cached output:\nquarto render --cache-refresh\nrm -rf _freeze/ .quarto/\nThen try,\nrm -rf _site/\nquarto render\nOr perhaps,\nrm -rf _site docs\nquarto render\nquarto publish gh-pages\nSometimes, you have to nuke and"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "ozh",
-    "section": "",
-    "text": "home  \n\nResearch I contributed to in a past life as an economics pre-doc. [Google Scholar]\n\n\nPublications\n\nDrivers of Dollar Share in Foreign Exchange Reserves. Linda S. Goldberg and Oliver Hannaoui. 2026. [NBER]  Media mentions \\(\\rightarrow\\)     •    •   \n\nAcademic Blogs\n\n\n\nThe dollar’s status through the lens of foreign exchange reserves. Linda S. Goldberg and Oliver Hannaoui. 2026. [VoxEU CEPR]\n\n\nWhat Do Climate Risk Indices Measure? Oliver Hannaoui and Hyeyoon Jung. 2024. [Liberty Street Economics]\n\n\nTaking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves. Patrick Douglass, Linda S. Goldberg, and Oliver Hannaoui. 2024. [Liberty Street Economics]\n\n\nFlood Risk and Firm Location Decisions in the Fed’s Second District. Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. [Liberty Street Economics]"
-  },
-  {
-    "objectID": "in_progress/technical-writing.html",
-    "href": "in_progress/technical-writing.html",
-    "title": "almost sure, almost surely",
-    "section": "",
-    "text": "home  \n\n\nalmost sure, almost surely\nA self-serving blog on mathematical topics that I encounter throughout my PhD journey.\n\n“All models are wrong, but some are useful.” - Georege box"
+    "text": "home\n\n\n\nMedia I like\n\n\n\nBlogs:  {Francis Bach, Keep the gradient flowing, Gregory Gundersen, econometrics.blog}Podcasts:  {The Thesis Review, The Peterman Pod, inControl, Signals and Threads, Subject to}\n\n\n\n\n\n\nCoffee shops I like\n\n\n\n\nPittsburgh:  {KLVN Coffee Lab, Mechanic Coffee, Creative Chem Co, Pre Amp Coffee Studio, Sidecar Coffee, Shibam Coffee, Commonplace Coffee, YINZ Coffee, Centred Coffee, Redstart Roasters, The Coffee Tree Roasters, Afters Cafe}Paris:  {Terres de Cafe, Noir, Dose, Araku, Aura}New York:  {Voyager Espresso, Ninth street espresso, Thayer, Blue Bottle, Black Fox, Suited, Elsewhere Espresso.}San Francisco Bay Area:  {Cafe Réveille, Equator Coffee, Rooted Coffee, Caffè Strada, Tellus Coffee, Blue Bottle Coffee, 1951 Coffee Company}\n\n\n\n\n\n\nRaces I’ve ran\n\n\n\n\n\n\n\n\n#\nRace\nDate\nOfficial Time\n\n\n\n\n1\nDICK'S Sporting Goods Pittsburgh Marathon\n05/02/2026\n3:28:24\n\n\n2\nNYCRUNS Brooklyn Half Marathon\n04/28/2024\n1:27:45\n\n\n3\nJersey City Half Marathon\n04/14/2024\n1:28:53\n\n\n4\nDavis Stampede Half Marathon\n02/03/2020\n1:26:24"
   },
   {
     "objectID": "in_progress/software.html",
@@ -42,10 +21,38 @@
     "text": "home  \n\n\npersonal projects\nSome personal projects, always to to be housed on  my GitHub, that I hope to wrap up. More than I would like to admit sit unfinished as private repos."
   },
   {
-    "objectID": "extracurricular.html",
-    "href": "extracurricular.html",
+    "objectID": "in_progress/technical-writing.html",
+    "href": "in_progress/technical-writing.html",
+    "title": "almost sure, almost surely",
+    "section": "",
+    "text": "home  \n\n\nalmost sure, almost surely\nA self-serving blog on mathematical topics that I encounter throughout my PhD journey.\n\n“All models are wrong, but some are useful.” - Georege box"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
     "title": "ozh",
     "section": "",
-    "text": "home\n\n\nMedia I like\n\n\nBlogs: {Francis Bach, Keep the gradient flowing, Gregory Gundersen, econometrics.blog}Podcasts: {The Thesis Review, The Peterman Pod, inControl, Signals and Threads, Subject to}\n\n\n\n\n\nCoffee Shop Logs\n\n\n\nPittsburgh: (KLVN Coffee Lab, Mechanic Coffee, Creative Chem Co, Pre Amp Coffee Studio, Sidecar Coffee and Bake Shop, Shibam Coffee, Commonplace Coffee, YINZ Coffee, Centred Coffee & Wellness, Redstart Roasters, The Coffee Tree Roasters, Afters Cafe)Paris: (Terres de Cafe, Noir, Dose, Araku, Aura)New York: (Voyager Espresso, Ninth street espresso, Thayer, Blue Bottle, Black Fox, Suited, Elsewhere Espresso.)San Francisco Bay Area: (Cafe Réveille, Equator Coffee, Rooted Coffee, Caffè Strada, Tellus Coffee, Blue Bottle Coffee, 1951 Coffee Company, Philz Coffee)\n\n\n\n\n\nRunning\n\n\n\n\n\n\n\n#\nRace\nDate\nOfficial Time\n\n\n\n\n1\nDICK'S Sporting Goods Pittsburgh Marathon\n05/02/2026\n3:28:24\n\n\n2\nNYCRUNS Brooklyn Half Marathon\n04/28/2024\n1:27:45\n\n\n3\nJersey City Half Marathon\n04/14/2024\n1:28:53\n\n\n4\nDavis Stampede Half Marathon\n02/03/2020\n1:26:24"
+    "text": "home  \n\nResearch I contributed to in a past life as an economics pre-doc. [Google Scholar]\n\n\nPublications\n\nDrivers of Dollar Share in Foreign Exchange Reserves. Linda S. Goldberg and Oliver Hannaoui. 2026. [NBER]  \\(\\star\\) Media:      •    •   \n\nAcademic Blogs\n\n\n\nThe dollar’s status through the lens of foreign exchange reserves. Linda S. Goldberg and Oliver Hannaoui. 2026. [VoxEU CEPR]\n\n\nWhat Do Climate Risk Indices Measure? Oliver Hannaoui and Hyeyoon Jung. 2024. [Liberty Street Economics]\n\n\nTaking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves. Patrick Douglass, Linda S. Goldberg, and Oliver Hannaoui. 2024. [Liberty Street Economics]\n\n\nFlood Risk and Firm Location Decisions in the Fed’s Second District. Oliver Hannaoui, Hyeyoon Jung, João AC Santos, and Lee Seltzer. 2023. [Liberty Street Economics]"
+  },
+  {
+    "objectID": "in_progress/useful.html",
+    "href": "in_progress/useful.html",
+    "title": "ozh",
+    "section": "",
+    "text": "To view the current md file you are on run\nquarto preview\nTo deploy to github run\nquarto publish gh-pages\nSometimes, there is stale cached output:\nquarto render --cache-refresh\nrm -rf _freeze/ .quarto/\nThen try,\nrm -rf _site/\nquarto render\nOr perhaps,\nrm -rf _site docs\nquarto render\nquarto publish gh-pages\nSometimes, you have to nuke and"
+  },
+  {
+    "objectID": "in_progress/leisure-writing.html",
+    "href": "in_progress/leisure-writing.html",
+    "title": "reducible error",
+    "section": "",
+    "text": "home\n\n\nreducible error\nPersonal writings on an assortment of non-technical, but hopefully interesting, topics I feel partly-qualified to speak on due to my lived experience.\n\n“When all is said and done, there’s nothing left to say or do.” - Darryl Dawkins"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ozh",
+    "section": "",
+    "text": "research   extracurricular\n\n\n\nOliver Hannaoui\n\n\n\nI am a second-year Statistics PhD student at Carnegie Mellon University. I am also a member of Delphi, where I am working on leveraging time-series foundation models for infectious disease forecasting.\nPreviously, I completed an M1 in Applied Mathematics and Statistics at the Polytechnic Institute of Paris. Prior to that, I spent two formative years at the Federal Reserve Bank of New York as a Senior Research Analyst in the Financial Intermediation group. \nI can be contacted via e-mail or LinkedIn ."
   }
 ]
